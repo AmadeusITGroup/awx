@@ -66,7 +66,7 @@ urllib3>=2.6.3 # CVE-2024-37891
 uWSGI>=2.0.28
 uwsgitop
 wheel>=0.38.1  # CVE-2022-40898
-pip==25.3  # see UPGRADE BLOCKERs
+pip==26.0  # see UPGRADE BLOCKERs
 setuptools==80.9.0  # see UPGRADE BLOCKERs
 setuptools-scm[toml]
 setuptools-rust>=0.11.4  # cryptography build dep
